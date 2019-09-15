@@ -1,0 +1,9 @@
+{
+"prefix": "!",
+"logsChannel": "logs",
+
+"activity": {
+    "streaming": false,
+    "game": "your command"
+  }
+}
